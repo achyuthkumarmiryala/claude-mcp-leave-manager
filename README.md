@@ -39,6 +39,7 @@
 - Python 3.8 or higher installed on your system  
 - Git installed
 
+## Author
 **Achyuth Kumar Miryala**  
 
 Denton, TX  
@@ -51,6 +52,6 @@ GitHub: [github.com/achyuthkumarmiryala](https://github.com/achyuthkumarmiryala)
 ```bash
 git clone https://github.com/achyuthkumarmiryala/claude-mcp-leave-manager.git
 cd claude-mcp-leave-manager
-## Author
+
 
 
