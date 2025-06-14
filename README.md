@@ -37,7 +37,14 @@
 ### Prerequisites
 
 - Python 3.8 or higher installed on your system  
-- Git installed  
+- Git installed
+
+**Achyuth Kumar Miryala**  
+
+Denton, TX  
+Email: Achyuthkumar286@gmail.com  
+LinkedIn: [linkedin.com/in/achyuthkumarmiryala](https://www.linkedin.com/in/achyuthkumarmiryala/)  
+GitHub: [github.com/achyuthkumarmiryala](https://github.com/achyuthkumarmiryala) 
 
 ### Clone the repository
 
@@ -46,9 +53,4 @@ git clone https://github.com/achyuthkumarmiryala/claude-mcp-leave-manager.git
 cd claude-mcp-leave-manager
 ## Author
 
-**Achyuth Kumar Miryala**  
 
-Denton, TX  
-Email: Achyuthkumar286@gmail.com  
-LinkedIn: [linkedin.com/in/achyuthkumarmiryala](https://www.linkedin.com/in/achyuthkumarmiryala/)  
-GitHub: [github.com/achyuthkumarmiryala](https://github.com/achyuthkumarmiryala)
